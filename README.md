@@ -1,12 +1,12 @@
 # Valarie Yang
 
-AI & Web3 Product Manager building reliable workflows across applied AI, financial data, RWA and trading systems.
+AI & Crypto Product Manager building reliable workflows across applied AI, financial data, RWA and trading systems.
 
 Based in mainland China · Open to relocation · EU/UK work authorization requires sponsorship
 
 ## Flagship work
 
-### Web3 / FinTech
+### FinTech
 
 - [RWA Investor Data & Reconciliation](https://github.com/valarie-yang/rwa-reconciliation-product-case) — synthetic financial-data, reconciliation, lineage, and grounded AI explanation.
 - [DEX Trading Product System Design](https://github.com/valarie-yang/dex-trading-product-system-design) — quote lifecycle, execution states, risk controls, and read-only AI decision support.
