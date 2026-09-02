@@ -1,6 +1,6 @@
 # Valarie Yang
 
-AI & Crypto Product Manager building reliable workflows across applied AI, financial data, RWA and trading systems.
+AI & Fintech Product Manager building reliable workflows across applied AI, financial data, RWA and trading systems.
 
 Based in mainland China · Open to relocation · EU/UK work authorization requires sponsorship
 
