@@ -14,9 +14,9 @@ Based in mainland China · Open to relocation · EU/UK work authorization requir
 
 ### Applied AI
 
-- [Human-in-the-Loop AI Assignment Grading](https://github.com/valarie-yang/assignment-ai-grading-system) — structured AI assessment, teacher review, controlled release, and evaluation gates.
+- [Human-in-the-Loop AI Assignment Grading](https://github.com/valarie-yang/assignment-ai-grading-system) — structured AI assessment, teacher review, controlled release, and evaluation gates. [Live demo](https://ai-grading-2lk.pages.dev/)
 - [AI-Assisted Influencer Content Operations](https://github.com/valarie-yang/Influencer-Platform-2.0) — deterministic structured workflow from persona to publishing board.
-- [AI-Assisted Livestock Teaching Assistant](https://github.com/valarie-yang/livestock-teaching-assistant) — domain-learning workflow, teacher review, and safe remediation.
+- [AI-Assisted Livestock Teaching Assistant](https://github.com/valarie-yang/livestock-teaching-assistant) — domain-learning workflow, teacher review, and safe remediation. [Live demo](https://muzhisuixing.pages.dev/)
 
 ## Evidence standard
 
