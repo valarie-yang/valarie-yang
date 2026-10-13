@@ -32,5 +32,5 @@ Each repository distinguishes product hypothesis from evidence, prototype from p
 
 ## Links
 
-- [Portfolio site source](https://github.com/valarie-yang/valarie-website)
+- [Portfolio website](https://valarie-yang.github.io/valarie-website/) · [Source](https://github.com/valarie-yang/valarie-website)
 - [LinkedIn](https://www.linkedin.com/in/valarie-yang-08573b122/)
